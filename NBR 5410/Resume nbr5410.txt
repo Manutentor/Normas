@@ -1,0 +1,17 @@
+ABNT NBR 5410
+
+Instalações elétricas de baixa tensão
+
+1 Objetivo
+1.1 Normas sobre as instalaçoes eletricas de baixa tensao (< 1000v)
+1.2 Publico alvo Edificações
+1.2.1 Areas externas, obras, temporarios, etc.
+1.2.2 < 1000v
+1.2.3 Reformas de instalações novas
+1.3 Não se aplica a veiculos, iluminação publica,Redes publicas, 'SPDA', cercas eletricas
+1.4 Selecão x condições de instalacao
+1.5 Não dispensa outras normas
+1.6 Respeitar orgão publicos
+1.7 Respeitar empresas de energia e distribuição
+
+2 
