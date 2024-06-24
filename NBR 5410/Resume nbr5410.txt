@@ -18,11 +18,25 @@ Instalações elétricas de baixa tensão
 
 3 Definições
 3.1 Componentes da instalação
-3.1.1 Componente: itens da instalação
+3.1.1 Componente: Itens da instalação
 3.1.2 Quadro de distribuição principal
 3.2 Proteção contra choques eletricos
 3.2.1 Elemento condutivo ou parte condutiva
-3.2.2 Proteção básica: impedir contato
-3.2.3 Proteção supletiva: suprir proteção quando partes tornam-se vivas
-3.2.4 Proteção adicional: garantir maior proteção em situações de risco, dificuldade no atendimento ou locais perigosos
+3.2.2 Proteção básica: Impedir contato
+3.2.3 Proteção supletiva: Suprir proteção quando partes tornam-se vivas
+3.2.4 Proteção adicional: Garantir maior proteção em situações de risco, dificuldade no atendimento ou locais perigosos
 3.2.5 Dispositivo de proteção a corrente diferencial-residual
+3.2.6 SELV: Sistema de extrabaixa tensão separado da terra
+3.2.7 PELV: SELV não separado da terra
+3.3 Proteção contra choques elétricos e proteção contra sobretensões e pertubações eletromagneticas
+3.3.1 Eqüipotencialização: Protege contra choques e sobretensões mas insuficiente contra p.e.
+3.3.2 Barramento de eqüipotencialização principal (BEP)
+3.3.3 Barramento de eqüipotencialização suplementar ou barramento de eqüipotencializacão local (BEL)
+3.3.4 Equipamento de tecnologia da informação (ETI): Recebe dados > processa > saida
+3.4 Linhas elétricas
+3.4.1 Linha de sinal
+3.4.2 Linha externa
+3.4.3 Ponto de entrega: Ponto de conexão da distribuidora
+3.4.4 Ponto de entrada (numa edificação)
+3.4.5 Ponto de utilização
+3.4.6 Ponto de tomada
