@@ -14,4 +14,15 @@ Instalações elétricas de baixa tensão
 1.6 Respeitar orgão publicos
 1.7 Respeitar empresas de energia e distribuição
 
-2 
+2 Referencias Normativas
+
+3 Definições
+3.1 Componentes da instalação
+3.1.1 Componente: itens da instalação
+3.1.2 Quadro de distribuição principal
+3.2 Proteção contra choques eletricos
+3.2.1 Elemento condutivo ou parte condutiva
+3.2.2 Proteção básica: impedir contato
+3.2.3 Proteção supletiva: suprir proteção quando partes tornam-se vivas
+3.2.4 Proteção adicional: garantir maior proteção em situações de risco, dificuldade no atendimento ou locais perigosos
+3.2.5 Dispositivo de proteção a corrente diferencial-residual
