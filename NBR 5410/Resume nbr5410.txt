@@ -40,3 +40,8 @@ Instalações elétricas de baixa tensão
 3.4.4 Ponto de entrada (numa edificação)
 3.4.5 Ponto de utilização
 3.4.6 Ponto de tomada
+3.5 Serviços de Segurança
+3.5.1 Serviços de segurança essenciais numa edificação
+3.5.2 Alimentação ou fonte normal
+3.5.3 Alimentação ou fonte de reserva
+3.5.4 Alimentação ou fonte de segurança
