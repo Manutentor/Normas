@@ -1,0 +1,43 @@
+Energisa
+
+Norma de Distribuição Unificada - NDU-001
+
+Fornecimento de Energia Elétrica em Tensão Secundária
+
+Edificações individuais ou agrupadas até 3 unidades consumidoras
+
+
+1. Introdução: Carga =< 75kW
+
+2. Excessões
+
+3. Definições
+3.1 Aterramento: T + N
+3.2 Caixa de Medição
+3.3 Caixa de Passagem
+3.4 Carga Instalada
+3.5 Concessionária ou Permissionária
+3.6 Condimínio
+3.7 Consumidor
+3.8 Demanda
+3.9 Edificação
+3.10 Edificação Infividual
+3.11 Edificaçãoes Agrupadas ou Agrupamentos
+3.12 Entrada de Serviço da Unidade Consumidora
+3.13 Ligação Definitiva
+3.14 Ligação Provisória
+3.15 Limites de Propriedade
+3.16 Medidor
+3.17 Padrão de Entrada: Desenho 001
+3.18 Pedido de Ligação ou solicitação de fornecimento
+3.19 Pontalete
+3.20 Ponto de Entrega de Energia
+3.21 Poste Auxiliar
+3.22 Potência
+3.23 Ramal de Entrada
+3.24 Ramal de Ligação
+3.25 Ramal de Saída
+3.26 Unidade Consumidora
+3.27 Via Pública
+
+4. Condições Gerais de Fornecimento
