@@ -45,3 +45,49 @@ Instalações elétricas de baixa tensão
 3.5.2 Alimentação ou fonte normal
 3.5.3 Alimentação ou fonte de reserva
 3.5.4 Alimentação ou fonte de segurança
+
+4 Princípios fundamentais e determinaçãos das características gerais
+4.1 Princípios fundamentais
+4.1.1 Proteção contra choques elétricos
+4.1.2 Proteção contra efeitos térmicos
+4.1.3 Proteção contra sobrecorrentes
+4.1.4 Circulação de correntes de falta
+4.1.5 Proteção contra sobretensões
+4.1.6 Serviços de segurança
+4.1.7 Desligamento de emergência
+4.1.8 Seccionamento
+4.1.9 Independência da instalação elétrica
+4.1.10 Acessibilidade dos componentes
+4.1.11 Seleção dos componentes
+4.1.12 Prevenção de efeitos danosos ou indesejados
+  - fator de potência;
+  - as correntes iniciais ou de energização;
+  - o desequilibrio de fases;
+  - as harmônicas.
+4.1.13 Instalação dos componentes
+  - não comprometer características;
+  - ser identificaveis;
+  - conexões sempre seguras e confiaveis;
+  - resfriamento dos componentes;
+  - eliminar risco de incêndios;
+  - garantir que as pessoas não tenham contato com partes danosas.
+4.1.14 Verificação da instalação
+4.1.15 Qualificação profissional
+4.2 Determinação das características gerais
+4.2.1 Utilização e demanda - Potência de alimentação
+4.2.1.1 Generalidades
+4.2.1.1.1 Determinar a potencia de alimentação levando em conta temperatura e queda de tensão
+4.2.1.1.2 Devem ser computados os equipametos, suas potencias, as não-simultaniedades e capacidade reserva
+4.2.1.2 Previsão de carga
+4.2.1.2.1 Geral:
+  - Potência nominal = Tn.In.Fp ;
+  - Potencia nominal fornecida pelo equipamento (P. saida) considerar Rend e Fp.
+4.2.1.2.2 Iluminação: 
+  - NBR 5413; 
+  - Aparelhos fixos de iluminção a descarga considerar perdas e Fp
+4.2.1.2.3 Pontos de tomada:
+  - em locais de habitação, considerar 9.5.2.2;
+  - em halls de serviço, salas manuteção e equipamentos: min 1 ponto tomad e 1kVA;
+  - TUE: igual as potencias dos equipamentos a serem alimentados
+  - TUE: localizado a no maximo 1.5m do equipamento previsto
+4.2.2 Esquema de distribuição
