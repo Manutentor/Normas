@@ -91,3 +91,16 @@ Instalações elétricas de baixa tensão
   - TUE: igual as potencias dos equipamentos a serem alimentados
   - TUE: localizado a no maximo 1.5m do equipamento previsto
 4.2.2 Esquema de distribuição
+4.2.2.1 Esquema de condutores vivos
+  - Corrente alternada
+  - Corrente contínua
+4.2.2.2 Esquema de aterramento
+  - Primeira letra: Alimentação
+      T = Ponto aterrado
+      I = Isolação
+  - Segunda letra: Massas da instalação elétrica
+      T = Diretamente aterradas
+      N = Ligadas a um ponto aterrado (neutro)
+  - Outras letras: Condutor neutro e condutor de proteção
+      S = N e PE Separados
+      C = N e PE Combinados
